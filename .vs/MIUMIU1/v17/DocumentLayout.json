@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\UPN\\Downloads\\semana3.1\\MIUMIU1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{81CEE43F-65BA-49BE-8B13-9B06452180D0}|MIUMIU1.csproj|c:\\users\\upn\\downloads\\semana3.1\\miumiu1\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81CEE43F-65BA-49BE-8B13-9B06452180D0}|MIUMIU1.csproj|solutionrelative:pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{81CEE43F-65BA-49BE-8B13-9B06452180D0}|MIUMIU1.csproj|c:\\users\\upn\\downloads\\semana3.1\\miumiu1\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81CEE43F-65BA-49BE-8B13-9B06452180D0}|MIUMIU1.csproj|solutionrelative:nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81CEE43F-65BA-49BE-8B13-9B06452180D0}|MIUMIU1.csproj|c:\\users\\upn\\downloads\\semana3.1\\miumiu1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{81CEE43F-65BA-49BE-8B13-9B06452180D0}|MIUMIU1.csproj|C:\\Users\\UPN\\Downloads\\semana3.1\\MIUMIU1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{81CEE43F-65BA-49BE-8B13-9B06452180D0}|MIUMIU1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "pila.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\semana3.1\\MIUMIU1\\pila.cs",
+              "RelativeDocumentMoniker": "pila.cs",
+              "ToolTip": "C:\\Users\\UPN\\Downloads\\semana3.1\\MIUMIU1\\pila.cs",
+              "RelativeToolTip": "pila.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T16:55:30.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "nodo.cs",
               "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\semana3.1\\MIUMIU1\\nodo.cs",
               "RelativeDocumentMoniker": "nodo.cs",
@@ -39,15 +56,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\semana3.1\\MIUMIU1\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\UPN\\Downloads\\semana3.1\\MIUMIU1\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T15:51:51.338Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-01-21T15:51:51.338Z"
             }
           ]
         }
